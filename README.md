@@ -2,7 +2,7 @@
 
 ---
 
-# 📊 Data Analysis & Engineering Projects
+#  Data Analysis & Engineering Projects
 
 ## Overview
 
@@ -12,7 +12,7 @@ My goal with this repository is to showcase not just technical ability, but also
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 * **SQL** – data querying, aggregation, filtering, ranking, and analytical logic
 * **Python** – data analysis and transformation
@@ -22,7 +22,7 @@ My goal with this repository is to showcase not just technical ability, but also
 
 ---
 
-## 📁 Project Focus Areas
+##  Project Focus Areas
 
 Projects in this repository cover topics such as:
 
